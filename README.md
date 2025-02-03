@@ -13,7 +13,7 @@ I believe in the power of technology to shape a better future. For me, coding is
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=radical" alt="GitHub Streak" />  
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />  
 </p>
 
@@ -22,4 +22,7 @@ I believe in the power of technology to shape a better future. For me, coding is
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=radical" alt="Top Languages" />
 </p> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Smarth2005&color=blue)
+
 
