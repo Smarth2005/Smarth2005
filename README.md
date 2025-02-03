@@ -23,6 +23,6 @@ I believe in the power of technology to shape a better future. For me, coding is
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=radical" alt="Top Languages" />
 </p> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Smarth2005&color=blue)
+
 
 
