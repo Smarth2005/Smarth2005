@@ -124,10 +124,10 @@
   <a href="https://kaggle.com/smarthkaushal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@skaushal" target="_blank">
+  <a href="https://medium.com/@skaushal1_be23" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Tech%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="mailto:skaushal_be23@thapar.edu">
+  <a href="mailto:skaushal1007@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
