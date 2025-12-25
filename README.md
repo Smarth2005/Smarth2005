@@ -1,7 +1,7 @@
 <p align="center">
   <img src="cover.png"
        alt="Smarth Kaushal | Profile Banner"
-       style="width:100%; max-height:60px; object-fit:cover;" />
+       style="width:90%; max-height:20px; object-fit:cover;" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&size=30&duration=4900&pause=900&color=5A03F7&background=7720FF00&center=true&multiline=true&width=1000&height=50&lines=Hearty+Welcome+!)](https://git.io/typing-svg)  
@@ -81,7 +81,8 @@
        height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=radical&hide_border=true"
        height="160" />
-</div>
+  </div>
+
 
 ## 🚀 Featured Projects
 - **[NetVigil](https://github.com/Smarth2005/NetVigil) (Latest)**:  
@@ -102,24 +103,11 @@
   Time-series forecasting system using **XGBoost** to predict electricity demand for smart-grid planning.  
   [Live](https://energy-demand-forecasting-umd8asuuq5yyqm974d8cud.streamlit.app/) • 
   [Report](https://github.com/Smarth2005/Energy-Demand-Forecasting/blob/main/AI%20Project%20Report.pdf)
-
-### Connect With Me:
-
-<div align="center">
-  <img src="dev_illustration.png" width="260" alt="Developer Illustration"/>
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/smarthkaushal" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@skaushal1_be23" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Tech%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="mailto:skaushal1007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+     
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smarth-kaushal-02a1092b2" height="30" width="40" /></a>
+<a href="https://kaggle.com/smarthkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smarthkaushal" height="30" width="40" /></a>
+<a href="https://medium.com/@skaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skaushal" height="30" width="40" /></a>
+<a href="mailto:skaushal1007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="28" /></a>
 </p>
