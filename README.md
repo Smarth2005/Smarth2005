@@ -108,6 +108,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smarth-kaushal-02a1092b2" height="30" width="40" /></a>
 <a href="https://kaggle.com/smarthkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smarthkaushal" height="30" width="40" /></a>
-<a href="https://medium.com/@skaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skaushal" height="30" width="40" /></a>
+<a href="https://medium.com/@skaushal1_be23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skaushal1_be23" height="30" width="40" /></a>
 <a href="mailto:skaushal1007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="28" /></a>
 </p>
