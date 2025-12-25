@@ -83,14 +83,6 @@
        height="160" />
 </div>
 
-<h3 align="center">📈 Contribution Activity</h3>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Smarth2005&theme=react-dark&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
 ## 🚀 Featured Projects
 - **[NetVigil](https://github.com/Smarth2005/NetVigil) (Latest)**:  
   AI-based network defense system detecting DDoS attacks in real time using **Random Forest**, with automated **self-healing** via dynamic ACL injection on Cisco routers.
