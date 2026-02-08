@@ -1,113 +1,76 @@
-<p align="center">
-  <img src="cover.png"
-       alt="Smarth Kaushal | Profile Banner"
-       style="width:90%; max-height:20px; object-fit:cover;" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patua+One&size=30&duration=4900&pause=900&color=5A03F7&background=7720FF00&center=true&multiline=true&width=1000&height=50&lines=Hearty+Welcome+!)](https://git.io/typing-svg)  
-<div align="center">
-  <h2>Hi, I'm <b>Smarth Kaushal</b> 👋</h2>
-  <p><i>Computer Science & Engineering Student • Penultimate Year @ TIET</i></p>
-</div>
+![banner](./assets/banner.png)
 
 <div align="center">
-  <h4>
+  <h3>
     <i>
       "A computer is like a violin — you can imagine it making beautiful music,
       but you have to learn how to play it."
     </i>
-  </h4>
+  </h3>
 </div>
+
 
 <p align="justify">
   I see technology not merely as lines of code, but as an instrument that
-  blends <b>logic with creativity</b>.
+  blends logic with creativity.
   <br><br>
-  Just like a violin requires discipline, patience, and practice to produce
-  harmony, I believe computing demands the same. Through
-  <b>machine learning, automation, computer networks, and system-level thinking</b>,
-  I strive to compose solutions that are efficient, meaningful, and impactful.
-  Each project I build is a step toward mastering my craft and finding my own
-  melody in the world of innovation.
-</p>
-
-<details>
-  <summary>
-    <h3>🎻 My Instruments</h3>
-  </summary>
-  
-  <!-- Programming Languages -->
-  <h4>Programming Languages</h4>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-  </p>
-
-  <!-- Machine Learning & Data -->
-  <h4>Machine Learning & Data</h4>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
-  </p>
-
-  <!-- Tools, Automation & CN -->
-  <h4>Tools, Automation & Systems</h4>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="34"/>&nbsp;
-    <img src="https://img.shields.io/badge/GNS3-Network%20Simulation-orange?style=flat-square&logo=cisco&logoColor=white" height="34"/>&nbsp;
-    <img src="https://img.shields.io/badge/draw.io-UML%20Design-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" height="34"/>&nbsp;
-    <img src="https://img.shields.io/badge/AutoCAD-Engineering%20Design-E11E26?style=flat-square&logo=autodesk&logoColor=white" height="34"/>
-  </p>
-
-</details>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">
-  <i>A snapshot of my consistency, activity, and technical focus.</i>
+  Just like a violin requires discipline, patience, and practice to produce harmony, I believe computing demands the same. Through machine learning, automation, computer networks, and system-level thinking,
+  I strive to compose solutions that are efficient, meaningful, and impactful — transforming ideas into digital symphonies.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&count_private=true&theme=radical&hide_border=true"
-       height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=radical&hide_border=true"
-       height="160" />
-  </div>
+  <h1>🎻 My Instruments</h1>
+</div>
+<img align="right" alt="coding" width="600" src="./assets/gif.gif">
 
-
-## 🚀 Featured Projects
-- **[NetVigil](https://github.com/Smarth2005/NetVigil) (Latest)**:  
-  AI-based network defense system detecting DDoS attacks in real time using **Random Forest**, with automated **self-healing** via dynamic ACL injection on Cisco routers.
-
-- **[GradePulse](https://github.com/Smarth2005/GradePulse) (Personal Project)**:  
-  Headless-browser automation tool that monitors academic portals, detects grade changes using **diff-logic**, and sends instant Telegram alerts.
-
-- **[Placement Nexus](https://github.com/Smarth2005/Placement_Nexus) (Team Project)**:  
-  Enterprise-style placement management system connecting students, T&P cells, and recruiters. Led **UML design** and **QA**, ensuring a robust end-to-end workflow.  
-  [Live](http://ec2-44-220-193-131.compute-1.amazonaws.com:8000/) • 
-  [Report](https://drive.google.com/drive/u/0/folders/1GPY3A3gjS8N2UEhjkw4z6gsWii-LfHqE)
-
-- **[Industrial Traffic Monitoring System](https://github.com/Smarth2005/Industrial-Traffic-Monitoring-and-Prediction-System)**:  
-  YOLOv8-powered real-time vehicle detection with ML-based traffic prediction, featuring **Streamlit dashboards**.
-
-- **[Energy Demand Forecasting](https://github.com/Smarth2005/Energy-Demand-Forecasting)**:  
-  Time-series forecasting system using **XGBoost** to predict electricity demand for smart-grid planning.  
-  [Live](https://energy-demand-forecasting-umd8asuuq5yyqm974d8cud.streamlit.app/) • 
-  [Report](https://github.com/Smarth2005/Energy-Demand-Forecasting/blob/main/AI%20Project%20Report.pdf)
-     
-<h3 align="left">Connect with me:</h3>
+### Languages & Core Development
 <p align="left">
-<a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smarth-kaushal-02a1092b2" height="30" width="40" /></a>
-<a href="https://kaggle.com/smarthkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smarthkaushal" height="30" width="40" /></a>
-<a href="https://medium.com/@skaushal1_be23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skaushal1_be23" height="30" width="40" /></a>
-<a href="mailto:skaushal1007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="28" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,mysql,matlab&theme=light" />
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" title="Oracle" alt="Oracle"/>
+</p>
+
+### Data Science & Analytics
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=light" />
+  </a>
+</p>
+
+### DevOps, Cloud & Automation
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions,linux&theme=light" /><img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
+</p>
+
+### Networking & System Design
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
+  <img src="./assets/gns3.jpeg" width="48" height="48" style="vertical-align:top" title="GNS3"/>&nbsp;
+  <img src="./assets/drawio.png" width="48" height="48" style="vertical-align:top" title="Draw.io"/>
+</p>
+
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&theme=dracula&bg_color=0d1117&title_color=36bcf7&icon_color=00ff9c&text_color=ffffff&hide_border=true" height="170" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=dracula&background=0d1117&stroke=36bcf7&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=dracula&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165" />
+</div>
+
+
+<h1 align="left">Let's Connect</h1>
+<img align="left" alt="coding" width="100" src="./assets/my_penguin.gif">
+<p align="left">
+   <a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://medium.com/@skaushal1_be23" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="50" width="50" /></a>
+  <a href="mailto:skaushal1007@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  <a href="https://kaggle.com/smarthkaushal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="45" /></a>
 </p>
