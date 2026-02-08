@@ -1,12 +1,12 @@
 ![banner](./assets/banner.png)
 
 <div align="center">
-  <h3>
+  <h4>
     <i>
       "A computer is like a violin — you can imagine it making beautiful music,
       but you have to learn how to play it."
     </i>
-  </h3>
+  </h4>
 </div>
 
 
@@ -21,7 +21,7 @@
 <div align="center">
   <h1>🎻 My Instruments</h1>
 </div>
-<img align="right" alt="coding" width="600" src="./assets/gif.gif">
+<img align="right" alt="coding" width="400" src="./assets/gif.gif">
 
 ### Languages & Core Development
 <p align="left">
