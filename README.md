@@ -26,7 +26,7 @@
 ### Languages & Core Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,mysql,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,mysql,postgres,matlab&theme=light" />
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" title="Oracle" alt="Oracle"/>
 </p>
@@ -43,7 +43,7 @@
 
 ### DevOps, Cloud & Automation
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions,linux&theme=light" /><img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />&nbsp;<img src="https://skillicons.dev/icons?i=githubactions,linux,postman&theme=light" />&nbsp;<img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
 </p>
 
 ### Networking & System Design
@@ -68,9 +68,9 @@
 
 <h1 align="left">Let's Connect</h1>
 <img align="left" alt="coding" width="100" src="./assets/my_penguin.gif">
+
 <p align="left">
-   <a href="https://linkedin.com/in/smarth-kaushal-02a1092b2" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="https://medium.com/@skaushal1_be23" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="50" width="50" /></a>
-  <a href="mailto:skaushal1007@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
-  <a href="https://kaggle.com/smarthkaushal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="45" /></a>
+<nobr>
+<a href="https://linkedin.com/in/smarth-kaushal-02a1092b2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://medium.com/@skaushal1_be23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="50" style="vertical-align:top" /></a>&nbsp;<a href="mailto:skaushal1007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://kaggle.com/smarthkaushal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="45" width="45" style="vertical-align:top"/></a>
+</nobr>
 </p>
