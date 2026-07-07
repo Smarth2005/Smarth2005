@@ -1,6 +1,10 @@
 ![banner](./assets/banner.png)
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=36bcf7&style=flat&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
   <h4>
     <i>
       "A computer is like a violin — you can imagine it making beautiful music,
@@ -8,7 +12,6 @@
     </i>
   </h4>
 </div>
-
 
 <p align="justify">
   I see technology not merely as lines of code, but as an instrument that
@@ -21,12 +24,20 @@
 <div align="center">
   <h1>🎻 My Instruments</h1>
 </div>
+
 <img align="right" alt="coding" width="400" src="./assets/gif.gif">
 
-### Languages & Core Development
+### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,mysql,postgres,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,matlab&theme=light" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres&theme=light" />
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" title="Oracle" alt="Oracle"/>
 </p>
@@ -41,12 +52,12 @@
   </a>
 </p>
 
-### DevOps, Cloud & Automation
+### Cloud & DevOps
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />&nbsp;<img src="https://skillicons.dev/icons?i=githubactions,linux,postman&theme=light" />&nbsp;<img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,github,githubactions,git,docker&theme=dark" />&nbsp;<img src="https://skillicons.dev/icons?i=linux,postman&theme=light" />&nbsp;<img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
 </p>
 
-### Networking & System Design
+### Networking & Tools
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
   <img src="./assets/gns3.jpeg" width="48" height="48" style="vertical-align:top" title="GNS3"/>&nbsp;
@@ -57,7 +68,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&theme=dracula&bg_color=0d1117&title_color=36bcf7&icon_color=00ff9c&text_color=ffffff&hide_border=true" height="170" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=dracula&background=0d1117&stroke=36bcf7&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&hide_border=true" height="170" />
 </div>
 
@@ -65,10 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=dracula&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165" />
 </div>
 
-
 <h1 align="left">Let's Connect</h1>
 <img align="left" alt="coding" width="100" src="./assets/my_penguin.gif">
-
 <p align="left">
 <nobr>
 <a href="https://linkedin.com/in/smarth-kaushal-02a1092b2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://medium.com/@skaushal1_be23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="50" style="vertical-align:top" /></a>&nbsp;<a href="mailto:skaushal1007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://kaggle.com/smarthkaushal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="45" width="45" style="vertical-align:top"/></a>
