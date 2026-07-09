@@ -1,7 +1,11 @@
 ![banner](./assets/banner.png)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=36bcf7&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=36bcf7&style=for-the-badge&label=Profile+Views&logo=github" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://skaushal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_Live-FFD700?style=for-the-badge" alt="Portfolio" />
+  </a>
 </div>
 
 <div align="center">
@@ -75,10 +79,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=dracula&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165" />
 </div>
 
-<h1 align="left">Let's Connect</h1>
+<h1 align="center">Let's Connect</h1>
 <img align="left" alt="coding" width="100" src="./assets/my_penguin.gif">
-<p align="left">
-<nobr>
-<a href="https://linkedin.com/in/smarth-kaushal-02a1092b2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://medium.com/@skaushal1_be23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="50" style="vertical-align:top" /></a>&nbsp;<a href="mailto:skaushal1007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" style="vertical-align:top" /></a>&nbsp;<a href="https://kaggle.com/smarthkaushal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="45" width="45" style="vertical-align:top"/></a>
-</nobr>
-</p>
+<br>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smarth-kaushal-02a1092b2)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skaushal1007@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@skaushal1_be23)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/smarthkaushal)
+
+</div>
+
