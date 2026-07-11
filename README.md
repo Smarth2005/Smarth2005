@@ -51,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>&nbsp;
+  <img src="assets/seaborn.svg" width="48" title="Seaborn"/>&nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=light" />
   </a>
