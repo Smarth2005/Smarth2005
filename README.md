@@ -1,32 +1,48 @@
-![banner](./assets/banner.png)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F0D,45:1F6B3A,100:F5C842&height=160&section=header&text=Hearty%20Welcome!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" />
+</div>
+
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=36bcf7&style=for-the-badge&label=Profile+Views&logo=github" alt="Profile views" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/kaushal_emerald_kalam.svg" alt="$kaushal" width="150">
+  <h3>Computer Science Undergrad @TIET | Software Engineering × Machine Learning</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=3FA34D&style=for-the-badge&label=Profile+Views&logo=github" alt="Profile views" />
+&nbsp;&nbsp;
   <a href="https://skaushal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View_Live-FFD700?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
 
-<div align="center">
-  <h4>
-    <i>
-      "A computer is like a violin — you can imagine it making beautiful music,
-      but you have to learn how to play it."
-    </i>
-  </h4>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FA34D,50:A3D65C,100:F5C842&height=3" width="100%" />
+
+<div align="left">
+  <h2>💫 My Vision</h2>
 </div>
 
+<div align="center">
+  <h3>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ॥</h3>
+  <b><i>“There is nothing in this world as pure and sacred as knowledge.”</i></b>
+</div>
+
+<div align="right">
+  - श्रीमद्भगवद्गीता (अध्याय 4, श्लोक 38)
+</div>
+<br>
+
 <p align="justify">
-  I see technology not merely as lines of code, but as an instrument that
-  blends logic with creativity.
-  <br><br>
-  Just like a violin requires discipline, patience, and practice to produce harmony, I believe computing demands the same. Through machine learning, automation, computer networks, and system-level thinking,
-  I strive to compose solutions that are efficient, meaningful, and impactful — transforming ideas into digital symphonies.
+I see technology not merely as lines of code, but as an instrument that blends logic with purpose — solving real-world problems and creating solutions that make a difference in our lives.
+
+Just as a violin requires discipline, patience, and practice to create harmony, I believe technology demands the same. Growth comes from curiosity and persistence — there is always something new to explore, something new to build, and a better way to improve. Through machine learning, automation, and system-level thinking, I strive to turn ideas into practical solutions and continuously refine my craft.
+
+**Keep learning. Keep building. Keep moving.**
 </p>
 
-<div align="center">
-  <h1>🎻 My Instruments</h1>
+<br>
+
+<div align="left">
+  <h2>🎻 My Instruments</h2>
 </div>
 
 <img align="right" alt="coding" width="400" src="./assets/gif.gif">
@@ -69,27 +85,32 @@
   <img src="./assets/drawio.png" width="48" height="48" style="vertical-align:top" title="Draw.io"/>
 </p>
 
-<h1 align="center">📊 GitHub Analytics</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&theme=dracula&bg_color=0d1117&title_color=36bcf7&icon_color=00ff9c&text_color=ffffff&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarth2005&theme=dracula&background=0d1117&stroke=36bcf7&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&theme=dracula&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165" />
-</div>
-
-<h1 align="center">Let's Connect</h1>
-<img align="left" alt="coding" width="100" src="./assets/my_penguin.gif">
 <br>
+
+<div align="left">
+  <h2>📊 GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&bg_color=30,0C0F0D,14201A&title_color=F5C842&icon_color=F59E0B&text_color=F4F1E4&ring_color=F5C842&border_color=26332B" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=Smarth2005&background=0C0F0D&border=26332B&ring=F5C842&fire=F59E0B&currStreakNum=F4F1E4&currStreakLabel=F5C842&sideNums=F4F1E4&sideLabels=F5C842&dates=9CA39E" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&bg_color=30,0C0F0D,14201A&title_color=F5C842&text_color=F4F1E4&border_color=26332B" />
+</div>
+
+<br>
+
+<div align="left">
+  <h2>🤝Let's Connect</h2>
+</div>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smarth-kaushal-02a1092b2)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skaushal1007@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@skaushal1_be23)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/smarthkaushal)
-
 </div>
+  
 
