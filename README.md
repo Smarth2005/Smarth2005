@@ -1,25 +1,20 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F0D,45:1F6B3A,100:F5C842&height=160&section=header&text=Hearty%20Welcome!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" />
-</div>
 
-
-<div align="center">
   <img src="./assets/kaushal_emerald_kalam.svg" alt="$kaushal" width="150">
-  <h3>Computer Science Undergrad @TIET | Software Engineering × Machine Learning</h3>
-  
+  <br>
+  <b>Computer Science Undergrad @TIET | Software Engineering × Machine Learning</b>
+  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=Smarth2005&color=3FA34D&style=for-the-badge&label=Profile+Views&logo=github" alt="Profile views" />
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://skaushal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View_Live-FFD700?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FA34D,50:A3D65C,100:F5C842&height=3" width="100%" />
-
-<div align="left">
-  <h2>💫 My Vision</h2>
-</div>
+---
 
 <div align="center">
   <h3>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ॥</h3>
@@ -39,10 +34,8 @@ Just as a violin requires discipline, patience, and practice to create harmony, 
 **Keep learning. Keep building. Keep moving.**
 </p>
 
-<br>
-
 <div align="left">
-  <h2>🎻 My Instruments</h2>
+  <h2>💻 Tech Stack</h2>
 </div>
 
 <img align="right" alt="coding" width="400" src="./assets/gif.gif">
