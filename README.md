@@ -86,24 +86,14 @@ Just as a violin requires discipline, patience, and practice to create harmony, 
 
 <div align="center">
   <img
-    width="49%"
+    width="215"
     src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&bg_color=30,0C0F0D,14201A&title_color=F5C842&icon_color=F59E0B&text_color=F4F1E4&ring_color=F5C842&border_color=26332B"
     alt="Smarth Kaushal's GitHub Stats"
   />
   <img
-    width="49%"
+    width="215"
     src="https://streak-stats.demolab.com/?user=Smarth2005&background=0C0F0D&border=26332B&ring=F5C842&fire=F59E0B&currStreakNum=F4F1E4&currStreakLabel=F5C842&sideNums=F4F1E4&sideLabels=F5C842&dates=9CA39E"
     alt="GitHub Streak"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&bg_color=30,0C0F0D,14201A&title_color=F5C842&text_color=F4F1E4&border_color=26332B"
-    alt="Most Used Languages"
   />
 </div>
 
