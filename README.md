@@ -80,24 +80,10 @@ Just as a violin requires discipline, patience, and practice to create harmony, 
 
 <br>
 
-<div align="left">
-  <h2>📊 GitHub Analytics</h2>
-</div>
+<div align="left"> <h2>📊 GitHub Analytics</h2> </div> 
 
-<div align="center">
-  <img
-    width="215"
-    src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&bg_color=30,0C0F0D,14201A&title_color=F5C842&icon_color=F59E0B&text_color=F4F1E4&ring_color=F5C842&border_color=26332B"
-    alt="Smarth Kaushal's GitHub Stats"
-  />
-  <img
-    width="215"
-    src="https://streak-stats.demolab.com/?user=Smarth2005&background=0C0F0D&border=26332B&ring=F5C842&fire=F59E0B&currStreakNum=F4F1E4&currStreakLabel=F5C842&sideNums=F4F1E4&sideLabels=F5C842&dates=9CA39E"
-    alt="GitHub Streak"
-  />
-</div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Smarth2005&show_icons=true&bg_color=30,0C0F0D,14201A&title_color=F5C842&text_color=F4F1E4&border_color=26332B&icon_color=F59E0B&ring_color=F5C842" alt="Smarth Kaushal's GitHub Stats" /> <img height="170" src="https://streak-stats.demolab.com/?user=Smarth2005&background=0C0F0D&border=26332B&ring=F5C842&fire=F59E0B&currStreakNum=F4F1E4&currStreakLabel=F5C842&sideNums=F4F1E4&sideLabels=F5C842&dates=9CA39E" alt="GitHub Streak" /> </div> <br> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarth2005&layout=compact&card_width=467&bg_color=30,0C0F0D,14201A&title_color=F5C842&text_color=F4F1E4&border_color=26332B" alt="Most Used Languages" /> </div> 
 
-<br>
 
 <div align="left">
   <h2>🤝Let's Connect</h2>
